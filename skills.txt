@@ -1,4 +1,0 @@
-Skill1: Linux terminal
-Skill2: Postman
-Skill3: Android Studio
-Skill4: SQL 
