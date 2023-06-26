@@ -1,0 +1,20 @@
+  <bug_report>
+    
+    <severity>critical</severity>
+    <environment>Win 10, Chrome 113</enviroment>
+    <title>The  button [Get it on Google Play] redirecting the app’s page 'games_for_android.com' on App Store in multiple menu items</title>
+    <steps>
+      <step1>Open to 'games_for_android.com'</step1>
+      <step2>Hover over the menu section [Games]/[Game_list]</step2>
+      <step3>Choose any games from the list</step3>
+      <step4>Scroll to block [Get it on Google Play]</step4>
+      <step5>Click button [Download from on Google Play]</step4>
+    </steps>
+    <expected_result>The button [Download from on Google Play] redirecting the app's page 'games_for_android.com' on Google Play</expected_result>
+    <actual_result>The button [Download from on Google Play] redirecting the app's page 'games_for_android.com' on App Store</actual_result>
+    <attachments>videofile.mp4</attachments>
+    <role>unregistered</role>
+    <author>Abduraimov Shuhrat</author>
+    <status>open</status>
+    
+</bug_report>
