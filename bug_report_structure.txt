@@ -1,0 +1,6 @@
+ID | Severity | Environment | Title | Steps | Expected Result | Actual Result | Link(attachment) | License | Role            | Author       | Author          | Author                | Bug didn't reproduce | Bug comments | Comment | Corrected / Not | Bug status |
+                                                                                                            (unregistered,    (Bug started)  (Bug reproduced)  (Bug didn't reproduce)     (environment)                       reviewed     corrected
+                                                                                                            unauthorized, 
+                                                                                                            authorized, All)
+
+															
