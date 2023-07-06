@@ -1,0 +1,13 @@
+"Checking the registration form on the web site"
+
+ID  | Task                                                        | Status
+
+1   | Navigate to: www.examplesite.com                            | passed
+
+2   | Click [The registr now] button                              | passed
+
+3   | Enter real email                                            | passed
+
+4   | Enter password                                              | passed
+
+5   | Click the [Complate registration] button                    | failed
