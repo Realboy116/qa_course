@@ -145,7 +145,8 @@ Termial. HW_2
 		head -n4 tf_2.txt
 
  35. Команда в одну строку. Создать папку и создать текстовый файл с содержиммым.
-		mkdir inner_dir_2 | echo "any text" > tf_6.txt
+		mkdir inner_dir_2 && cat > inner_dir_2/tf_6.txt
+		some text   ctrl + D  (to exit)
 
  36. Команда в одну строку. Переместить в любую одну папку текстовые файлы у которых в содержимом есть слово “sec”
 		grep -r -l sec * | xargs mv -t inner_dir_2
@@ -158,5 +159,6 @@ Termial. HW_2
 	
  39. Команда в одну строку. Удалить текстовые файлы у которых в содержимом есть слово “sec”
 		grep -rl sec | xargs rm -rf
+
  40. Просто вывести в терминал строку “Good job!!”
 		echo '"Good job!!"'
